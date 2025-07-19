@@ -124,16 +124,6 @@ date_range = 30  # Days of historical data
    - Large datasets may cause performance issues
    - Adjust `n_samples` parameter to reduce batch sizes
 
-## 📝 Code Structure
-
-```
-lavender-lifestyle-store/
-├── app.py                 # Main Streamlit application
-├── cosstorerev_model.pkl  # Trained ML model
-├── requirements.txt       # Python dependencies
-└── README.md             # This file
-```
-
 ## 🤝 Contributing
 
 1. Fork the repository
