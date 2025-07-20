@@ -132,23 +132,4 @@ date_range = 30  # Days of historical data
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-- Built with [Streamlit](https://streamlit.io/) for the interactive dashboard
-- Uses [scikit-learn](https://scikit-learn.org/) for machine learning capabilities
-- Data visualization powered by [Pandas](https://pandas.pydata.org/) and [NumPy](https://numpy.org/)
-
-## 📞 Support
-
-For questions or issues, please:
-- Open an issue on GitHub
-- Contact the development team
-- Check the troubleshooting section above
-
----
-
 **⭐ Star this repository if you find it useful!**
